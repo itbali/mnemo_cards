@@ -1,6 +1,6 @@
 {
   "name": "mnemo_cards",
-  "head": "https://itbali.github.io/mnemo_cards/",
+  "homepage": "https://itbali.github.io/mnemo_cards/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
